@@ -1,5 +1,5 @@
-# Cry-Of-Fear
-Cry Of Fear on Source sdk 2013(NOT OFFICIAL)
+# Cry-Of-Fear Source Sdk 2013
+Disclaimer⚠️: This is an unofficial port. Original game by Team Psykskallar. Port by Blank.
 
 ## developers
 •me
